@@ -29,6 +29,7 @@ V.	OBJETIVOS ESPECIFICO
 A.	Diseñar y desarrollar una aplicación en C++ que tenga funciones clave para manejar el inventario, como añadir, modificar o eliminar productos.
 B.	Proporcionar acceso rápido a la información del inventario mediante reportes detallados que incluyan el valor total y datos estadísticos.
 C.	Asegurar que los datos se mantengan guardados y seguros mediante un sistema de almacenamiento local que garantice la integridad de la información.
+
 VI.	METODOLOGÍA EN CASCADA
 A.	1. Análisis de Requisitos
 	Recopilar información sobre los desafíos más comunes en la gestión de inventarios en papelerías.
